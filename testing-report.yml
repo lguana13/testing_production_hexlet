@@ -4,7 +4,7 @@
   status: pass
 
 - summary: |
-    Проверка возможности авторизоваться на сайте через Discord
+    Проверка на авторизацаю пользователя через Discord
   status: pass
 
 - summary: |
