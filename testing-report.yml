@@ -4,6 +4,10 @@
   status: pass
 
 - summary: |
+    Проверка авторизации по имейлу
+  status: pass
+
+- summary: |
     Проверка авторизации через Discord
   status: pass
 
@@ -13,6 +17,10 @@
 
 - summary: |
     Проверка сохранения кода после закрытия вкладки с активной игрой
+  status: pass
+
+- summary: |
+    Проверка создания игры с ботом без регистрации
   status: pass
 
 - summary: |
